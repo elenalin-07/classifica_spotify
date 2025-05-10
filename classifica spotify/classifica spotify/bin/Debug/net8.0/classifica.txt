@@ -1,0 +1,101 @@
+Posizione|Titolo|Artista|Anno|Stream
+1|Blinding Lights|The Weeknd|2020|4825000000
+2|Shape of You|Ed Sheeran|2017|4346000000
+3|Someone You Loved|Lewis Capaldi|2019|3893000000
+4|Starboy|The Weeknd & Daft Punk|2016|3877000000
+5|As It Was|Harry Styles|2022|3864000000
+6|Sunflower|Post Malone & Swae Lee|2018|3803000000
+7|Sweater Weather|The Neighbourhood|2013|3753000000
+8|One Dance|Drake ft. Wizkid & Kyla|2016|3621000000
+9|Stay|The Kid LAROI & Justin Bieber|2021|3542000000
+10|Perfect|Ed Sheeran|2017|3420000000
+11|Believer|Imagine Dragons|2017|3420000000
+12|Heat Waves|Glass Animals|2020|3372000000
+13|Lovely|Billie Eilish & Khalid|2018|3298000000
+14|Dance Monkey|Tones and I|2019|3255000000
+15|Closer|The Chainsmokers & Halsey|2016|3253000000
+16|Say You Won’t Let Go|James Arthur|2016|3248000000
+17|Rockstar|Post Malone & 21 Savage|2017|3169000000
+18|Something Just Like This|The Chainsmokers & Coldplay|2017|3140000000
+19|Riptide|Vance Joy|2013|3085000000
+20|Take Me to Church|Hozier|2014|3016000000
+21|I Wanna Be Yours|Arctic Monkeys|2013|3016000000
+22|Another Love|Tom Odell|2012|3008000000
+23|Watermelon Sugar|Harry Styles|2019|3002000000
+24|Yellow|Coldplay|2000|3001000000
+25|Señorita|Shawn Mendes & Camila Cabello|2019|2997000000
+26|The Night We Met|Lord Huron|2015|2964000000
+27|Counting Stars|OneRepublic|2013|2948000000
+28|Don’t Start Now|Dua Lipa|2019|2916000000
+29|Photograph|Ed Sheeran|2014|2914000000
+30|Cruel Summer|Taylor Swift|2019|2880000000
+31|Lucid Dreams|Juice WRLD|2018|2874000000
+32|Can’t Hold Us|Macklemore & Ryan Lewis ft. Ray Dalton|2011|2865000000
+33|Goosebumps|Travis Scott|2016|2821000000
+34|Circles|Post Malone|2019|2813000000
+35|Bohemian Rhapsody|Queen|1975|2785000000
+36|Die for You|The Weeknd|2016|2771000000
+37|God’s Plan|Drake|2018|2766000000
+38|Thinking Out Loud|Ed Sheeran|2014|2761000000
+39|Love Yourself|Justin Bieber|2015|2759000000
+40|Shallow|Lady Gaga & Bradley Cooper|2018|2754000000
+41|Viva La Vida|Coldplay|2008|2736000000
+42|Just the Way You Are|Bruno Mars|2010|2731000000
+43|Bad Guy|Billie Eilish|2019|2721000000
+44|All of Me|John Legend|2013|2718000000
+45|Wake Me Up|Avicii|2013|2707000000
+46|Thunder|Imagine Dragons|2017|2703000000
+47|Demons|Imagine Dragons|2013|2664000000
+48|The Hills|The Weeknd|2015|2645000000
+49|Locked Out of Heaven|Bruno Mars|2012|2642000000
+50|Stressed Out|Twenty One Pilots|2015|2641000000
+51|Every Breath You Take|The Police|1983|2634000000
+52|When I Was Your Man|Bruno Mars|2012|2631000000
+53|That’s What I Like|Bruno Mars|2016|2625000000
+54|Humble|Kendrick Lamar|2017|2622000000
+55|Without Me|Eminem|2002|2619000000
+56|Mr. Brightside|The Killers|2003|2611000000
+57|No Role Modelz|J. Cole|2014|2575000000
+58|Do I Wanna Know?|Arctic Monkeys|2013|2566000000
+59|In The End|Linkin Park|2000|2550000000
+60|Lose Yourself|Eminem|2002|2547000000
+61|Let Her Go|Passenger|2012|2541000000
+62|Flowers|Miley Cyrus|2023|2524000000
+63|7 Rings|Ariana Grande|2019|2523000000
+64|Birds of a Feather|Billie Eilish|2024|2504000000
+65|Unforgettable|French Montana & Swae Lee|2017|2497000000
+66|Let Me Love You|DJ Snake & Justin Bieber|2016|2491000000
+67|Drivers License|Olivia Rodrigo|2021|2487000000
+68|Treat You Better|Shawn Mendes|2016|2483000000
+69|Kill Bill|SZA|2022|2474000000
+70|One Kiss|Calvin Harris & Dua Lipa|2018|2444000000
+71|Die With A Smile|Lady Gaga & Bruno Mars|2024|2426000000
+72|Sorry|Justin Bieber|2015|2422000000
+73|Good 4 U|Olivia Rodrigo|2021|2419000000
+74|Don’t Stop Believin’|Journey|1981|2402000000
+75|There’s Nothing Holdin’ Me Back|Shawn Mendes|2017|2400000000
+76|Smells Like Teen Spirit|Nirvana|1991|2395000000
+77|Happier|Marshmello & Bastille|2018|2393000000
+78|Sad!|XXXTentacion|2018|2377000000
+79|Cold Heart (Pnau Remix)|Elton John & Dua Lipa|2021|2365000000
+80|Jocelyn Flores|XXXTentacion|2017|2364000000
+81|Sicko Mode|Travis Scott|2018|2359000000
+82|Iris|Goo Goo Dolls|1998|2349000000
+83|Lean On|Major Lazer & DJ Snake ft. MØ|2015|2347000000
+84|See You Again|Tyler, The Creator & Kali Uchis|2017|2345000000
+85|Save Your Tears|The Weeknd|2020|2342000000
+86|Seven|Jung Kook & Latto|2023|2337000000
+87|XO Tour Llif3|Lil Uzi Vert|2017|2334000000
+88|Wonderwall|Oasis|1995|2329000000
+89|The Scientist|Coldplay|2002|2329000000
+90|Levitating|Dua Lipa & DaBaby|2020|2313000000
+91|Don’t Stop Me Now|Queen|1979|2312000000
+92|All The Stars|Kendrick Lamar & SZA|2018|2309000000
+93|Uptown Funk|Mark Ronson & Bruno Mars|2014|2309000000
+94|New Rules|Dua Lipa|2017|2308000000
+95|Take On Me|A-ha|1985|2308000000
+96|Too Good at Goodbyes|Sam Smith|2017|2298000000
+97|Stay with Me|Sam Smith|2014|2288000000
+98|Someone Like You|Adele|2011|2284000000
+99|Havana|Camila Cabello & Young Thug|2017|2276000000
+100|Memories|Maroon 5|2019|2255000000

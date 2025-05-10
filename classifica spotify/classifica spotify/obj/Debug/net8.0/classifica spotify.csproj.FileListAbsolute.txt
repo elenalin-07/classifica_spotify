@@ -1,0 +1,14 @@
+C:\Users\lin.elena\Downloads\Numero Cifra\visual studio 2022 c sharp\classifica spotify\classifica spotify\bin\Debug\net8.0\classifica spotify.exe
+C:\Users\lin.elena\Downloads\Numero Cifra\visual studio 2022 c sharp\classifica spotify\classifica spotify\bin\Debug\net8.0\classifica spotify.deps.json
+C:\Users\lin.elena\Downloads\Numero Cifra\visual studio 2022 c sharp\classifica spotify\classifica spotify\bin\Debug\net8.0\classifica spotify.runtimeconfig.json
+C:\Users\lin.elena\Downloads\Numero Cifra\visual studio 2022 c sharp\classifica spotify\classifica spotify\bin\Debug\net8.0\classifica spotify.dll
+C:\Users\lin.elena\Downloads\Numero Cifra\visual studio 2022 c sharp\classifica spotify\classifica spotify\bin\Debug\net8.0\classifica spotify.pdb
+C:\Users\lin.elena\Downloads\Numero Cifra\visual studio 2022 c sharp\classifica spotify\classifica spotify\obj\Debug\net8.0\classifica spotify.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lin.elena\Downloads\Numero Cifra\visual studio 2022 c sharp\classifica spotify\classifica spotify\obj\Debug\net8.0\classifica spotify.AssemblyInfoInputs.cache
+C:\Users\lin.elena\Downloads\Numero Cifra\visual studio 2022 c sharp\classifica spotify\classifica spotify\obj\Debug\net8.0\classifica spotify.AssemblyInfo.cs
+C:\Users\lin.elena\Downloads\Numero Cifra\visual studio 2022 c sharp\classifica spotify\classifica spotify\obj\Debug\net8.0\classifica spotify.csproj.CoreCompileInputs.cache
+C:\Users\lin.elena\Downloads\Numero Cifra\visual studio 2022 c sharp\classifica spotify\classifica spotify\obj\Debug\net8.0\classifica spotify.dll
+C:\Users\lin.elena\Downloads\Numero Cifra\visual studio 2022 c sharp\classifica spotify\classifica spotify\obj\Debug\net8.0\refint\classifica spotify.dll
+C:\Users\lin.elena\Downloads\Numero Cifra\visual studio 2022 c sharp\classifica spotify\classifica spotify\obj\Debug\net8.0\classifica spotify.pdb
+C:\Users\lin.elena\Downloads\Numero Cifra\visual studio 2022 c sharp\classifica spotify\classifica spotify\obj\Debug\net8.0\classifica spotify.genruntimeconfig.cache
+C:\Users\lin.elena\Downloads\Numero Cifra\visual studio 2022 c sharp\classifica spotify\classifica spotify\obj\Debug\net8.0\ref\classifica spotify.dll
