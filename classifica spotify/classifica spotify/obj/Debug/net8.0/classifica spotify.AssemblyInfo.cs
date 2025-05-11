@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("classifica spotify")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46831011d30964f9ba81806b7624eddb9967a807")]
 [assembly: System.Reflection.AssemblyProductAttribute("classifica spotify")]
 [assembly: System.Reflection.AssemblyTitleAttribute("classifica spotify")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
