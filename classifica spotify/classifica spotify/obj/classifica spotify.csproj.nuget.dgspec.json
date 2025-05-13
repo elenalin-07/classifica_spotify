@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zxt02\\Documents\\inf\\GitHub\\classifica_spotify\\classifica spotify\\classifica spotify\\classifica spotify.csproj": {}
+    "C:\\Users\\lin.elena\\Documents\\Git Hub\\classifica_spotify\\classifica spotify\\classifica spotify\\classifica spotify.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zxt02\\Documents\\inf\\GitHub\\classifica_spotify\\classifica spotify\\classifica spotify\\classifica spotify.csproj": {
+    "C:\\Users\\lin.elena\\Documents\\Git Hub\\classifica_spotify\\classifica spotify\\classifica spotify\\classifica spotify.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zxt02\\Documents\\inf\\GitHub\\classifica_spotify\\classifica spotify\\classifica spotify\\classifica spotify.csproj",
+        "projectUniqueName": "C:\\Users\\lin.elena\\Documents\\Git Hub\\classifica_spotify\\classifica spotify\\classifica spotify\\classifica spotify.csproj",
         "projectName": "classifica spotify",
-        "projectPath": "C:\\Users\\zxt02\\Documents\\inf\\GitHub\\classifica_spotify\\classifica spotify\\classifica spotify\\classifica spotify.csproj",
-        "packagesPath": "C:\\Users\\zxt02\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zxt02\\Documents\\inf\\GitHub\\classifica_spotify\\classifica spotify\\classifica spotify\\obj\\",
+        "projectPath": "C:\\Users\\lin.elena\\Documents\\Git Hub\\classifica_spotify\\classifica spotify\\classifica spotify\\classifica spotify.csproj",
+        "packagesPath": "C:\\Users\\lin.elena\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lin.elena\\Documents\\Git Hub\\classifica_spotify\\classifica spotify\\classifica spotify\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\zxt02\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lin.elena\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -44,7 +43,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

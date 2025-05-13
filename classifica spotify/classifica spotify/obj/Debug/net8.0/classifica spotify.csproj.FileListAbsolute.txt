@@ -27,3 +27,18 @@ C:\Users\zxt02\Documents\inf\GitHub\classifica_spotify\classifica spotify\classi
 C:\Users\zxt02\Documents\inf\GitHub\classifica_spotify\classifica spotify\classifica spotify\obj\Debug\net8.0\classifica spotify.pdb
 C:\Users\zxt02\Documents\inf\GitHub\classifica_spotify\classifica spotify\classifica spotify\obj\Debug\net8.0\classifica spotify.genruntimeconfig.cache
 C:\Users\zxt02\Documents\inf\GitHub\classifica_spotify\classifica spotify\classifica spotify\obj\Debug\net8.0\ref\classifica spotify.dll
+C:\Users\lin.elena\Documents\Git Hub\classifica_spotify\classifica spotify\classifica spotify\bin\Debug\net8.0\classifica spotify.exe
+C:\Users\lin.elena\Documents\Git Hub\classifica_spotify\classifica spotify\classifica spotify\bin\Debug\net8.0\classifica spotify.deps.json
+C:\Users\lin.elena\Documents\Git Hub\classifica_spotify\classifica spotify\classifica spotify\bin\Debug\net8.0\classifica spotify.runtimeconfig.json
+C:\Users\lin.elena\Documents\Git Hub\classifica_spotify\classifica spotify\classifica spotify\bin\Debug\net8.0\classifica spotify.dll
+C:\Users\lin.elena\Documents\Git Hub\classifica_spotify\classifica spotify\classifica spotify\bin\Debug\net8.0\classifica spotify.pdb
+C:\Users\lin.elena\Documents\Git Hub\classifica_spotify\classifica spotify\classifica spotify\obj\Debug\net8.0\classifica spotify.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lin.elena\Documents\Git Hub\classifica_spotify\classifica spotify\classifica spotify\obj\Debug\net8.0\classifica spotify.AssemblyInfoInputs.cache
+C:\Users\lin.elena\Documents\Git Hub\classifica_spotify\classifica spotify\classifica spotify\obj\Debug\net8.0\classifica spotify.AssemblyInfo.cs
+C:\Users\lin.elena\Documents\Git Hub\classifica_spotify\classifica spotify\classifica spotify\obj\Debug\net8.0\classifica spotify.csproj.CoreCompileInputs.cache
+C:\Users\lin.elena\Documents\Git Hub\classifica_spotify\classifica spotify\classifica spotify\obj\Debug\net8.0\classifica spotify.sourcelink.json
+C:\Users\lin.elena\Documents\Git Hub\classifica_spotify\classifica spotify\classifica spotify\obj\Debug\net8.0\classifica spotify.dll
+C:\Users\lin.elena\Documents\Git Hub\classifica_spotify\classifica spotify\classifica spotify\obj\Debug\net8.0\refint\classifica spotify.dll
+C:\Users\lin.elena\Documents\Git Hub\classifica_spotify\classifica spotify\classifica spotify\obj\Debug\net8.0\classifica spotify.pdb
+C:\Users\lin.elena\Documents\Git Hub\classifica_spotify\classifica spotify\classifica spotify\obj\Debug\net8.0\classifica spotify.genruntimeconfig.cache
+C:\Users\lin.elena\Documents\Git Hub\classifica_spotify\classifica spotify\classifica spotify\obj\Debug\net8.0\ref\classifica spotify.dll
