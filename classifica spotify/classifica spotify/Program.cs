@@ -1,31 +1,48 @@
-﻿string[] spotify = File.ReadAllLines("classifica.txt");
+﻿using static System.Runtime.InteropServices.JavaScript.JSType;
+
+string[] spotify = File.ReadAllLines("classifica.txt");
 
 List<string> list = new List<string>(spotify);
 list.RemoveAt(0);
 
-StreamWriter writer1 = new StreamWriter("titoli_artista.txt");
-StreamWriter writer2 = new StreamWriter("super_streams.txt");
-StreamWriter writer3 = new StreamWriter("anni.txt");
-
-void titoli (ref string art, ref string anno, List<string> list, string nome)
+List<string> brani_art(List<string> list, string artista)
 {
+    List<string> brani = new List<string>();
     foreach (string s in list)
     {
         string[] riga = s.Split('|');
-        if (s.Contains(nome))
+        if (s.Contains(artista))
         {
-            writer1.WriteLine($"{riga[1]} - {riga[2]}");
-            Console.WriteLine($"{riga[1]} - {riga[2]}");
+            brani.Add($"{riga[1]} - {riga[2]}");
         }
+    }
+    return brani;
+}
+
+void stampa_list(List<string> list)
+{
+    foreach (string s in list)
+    {
+        Console.WriteLine(s);
+    }
+}
+
+List<string> super_streams(List<string> list, ref string art, ref string anno)
+{
+    List<string> ss = new List<string>();
+    foreach (string s in list)
+    {
+        string[] riga = s.Split('|');
         if (long.Parse(riga[4]) > 3000000000)
         {
-            writer2.WriteLine(riga[1]);
+            ss.Add(riga[1]);
         }
         if (riga[2].Contains("&"))
         {
             string[] a4 = riga[2].Split(" & ");
             foreach (string x in a4)
             {
+
                 if (!art.Contains(x))
                 {
                     art += x + ",";
@@ -41,10 +58,12 @@ void titoli (ref string art, ref string anno, List<string> list, string nome)
             anno += riga[3] + ",";
         }
     }
+    return ss;
 }
 
-void brani(List<string> list, List<string> artista, ref int[] n_ar)
+int[] num_brani(List<string> list, List<string> artista)
 {
+    int[] n_ar = new int[artista.Count];
     foreach (string s in list)
     {
         string[] riga = s.Split('|');
@@ -68,9 +87,12 @@ void brani(List<string> list, List<string> artista, ref int[] n_ar)
             }
         }
     }
+    return n_ar;
 }
 
-void stampa(List<int> a, List<string> list)
+StreamWriter writer3 = new StreamWriter("anni.txt");
+
+void brani_anno(List<int> a, List<string> list)
 {
     foreach (int x in a)
     {
@@ -91,32 +113,36 @@ void stampa(List<int> a, List<string> list)
 Console.WriteLine("inserisci il nome di un artista");
 string nome = Console.ReadLine();
 
-string art = "";
-string anno = "";
+List<string> brani = brani_art(list, nome);
+stampa_list(brani);
 
-titoli(ref art, ref anno, list, nome);
+File.WriteAllLines("titoli_artista.txt", brani);
 
-art = art.Substring(0, art.Length - 1);
-anno = anno.Substring(0, anno.Length - 1);
+string nomi = "", anni = "";
+List<string> ss = super_streams(list, ref nomi, ref anni);
 
-List<string> a1 = new List<string>(anno.Split(","));
+File.WriteAllLines("super_streams.txt", ss);
+
+List<string> nomi_art = new List<string>(nomi.Substring(0, nomi.Length - 1).Split(","));
+List<string> anni_a = new List<string>(anni.Substring(0, anni.Length - 1).Split(","));
 List<int> a = new List<int>();
 
-foreach (string s in a1)
+foreach (string s in anni_a)
 {
     a.Add(int.Parse(s));
 }
 
 a.Sort();
 
-List<string> artista = new List<string>(art.Split(","));
-int[] num_ar = new int[artista.Count];
+List<int> numeri_brani_art = new List<int>(num_brani(list, nomi_art));
 
-brani(list, artista, ref num_ar);
+for (int i = 0; i < nomi_art.Count; i++)
+{
+    Console.WriteLine($"{nomi_art[i]} - {numeri_brani_art[i]}");
+}
 
 int max = 0;
-List<int> n_ar = new List<int>(num_ar);
-foreach (int s in n_ar)
+foreach (int s in numeri_brani_art)
 {
     if (s > max)
     {
@@ -124,20 +150,11 @@ foreach (int s in n_ar)
     }
 }
 
-string max_ar = artista[n_ar.IndexOf(max)];
-
-Console.WriteLine();
-
-for (int i = 0; i < artista.Count; i++)
-{
-    Console.WriteLine($"{artista[i]} = {n_ar[i]}");
-}
+string max_ar = nomi_art[numeri_brani_art.IndexOf(max)];
 
 Console.WriteLine($"artista con più brani in classifica: {max_ar}");
 Console.WriteLine();
 
-stampa(a, list);
+brani_anno(a, list);
 
-writer1.Close();
-writer2.Close();
 writer3.Close();
